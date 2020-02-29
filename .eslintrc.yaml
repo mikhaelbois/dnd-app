@@ -1,0 +1,5 @@
+extends: ['react-app', '@absolunet/react', 'prettier', 'prettier/react']
+plugins: ['prettier']
+parser: 'babel-eslint'
+rules:
+  additional-rule: 'warn'
